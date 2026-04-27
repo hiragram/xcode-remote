@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Local Claude Code settings
+.claude/
